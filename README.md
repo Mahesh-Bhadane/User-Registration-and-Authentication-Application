@@ -1,7 +1,7 @@
 # User-Registration-and-Authentication-Application
 User registration and authentication application that will interface with a backend system.
 
-**Back end having the below page:
+Back end having the below page:
 
 -> api/src/main/java/io/mahesh/api
 <ul>
@@ -11,7 +11,7 @@ User registration and authentication application that will interface with a back
 <li>UserRepository.java</li>
 </ul>
 
-**Front end having the below page :
+Front end having the below page :
 
 -> auth/lib
 <ul>
